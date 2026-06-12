@@ -42,4 +42,4 @@ Este é um sistema completo de gestão de reservas para restaurantes, desenvolvi
 O sistema utiliza uma arquitetura MVC simples (Model-View-Controller) para separar a lógica de reserva da interface visual.
 
 ---
-Desenvolvido por [O TEU NOME AQUI]
+Desenvolvido por João Teixeira
